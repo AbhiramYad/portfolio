@@ -40,19 +40,7 @@ const About = () => {
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
             Computer Science Engineering student with strong problem-solving abilities and solid fundamentals in Data Structures & Algorithms and Databases. Passionate about building scalable and practical software systems, with a strong willingness to learn and adapt in fast-paced environments. Seeking a Software Engineer role to grow professionally and contribute to impactful real-world projects.
           </p>
-          {/* Resume Button */}
-          <a
-            href="https://drive.google.com/file/d/1VkCbf9TewK5S60J90CMuScjLj4xYMhXA/view?usp=sharing"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
-            style={{
-              background: 'linear-gradient(90deg, #8245ec, #a855f7)',
-              boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
-            }}
-          >
-            DOWNLOAD CV
-          </a>
+          
           
         </div>
         {/* Right Side */}
